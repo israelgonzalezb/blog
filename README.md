@@ -1,2 +1,2 @@
 # blog
-israelgonzalezb.github.io
+https://israelgonzalezb.github.io
